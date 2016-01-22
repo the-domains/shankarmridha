@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ShankarMridha]]></title>
         <description><![CDATA[ShankarMridha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shankarmridha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 14:10:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 15:38:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shankarmridha/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78039171-179a-4b60-9a98-ef5f7f738f45.JPG">]]></description>
-            <link>undefined36d12080-cb31-40d5-8bdd-5f46281c10b0/index.html</link>
+            <title><![CDATA[The Positivist]]></title>
+            <description><![CDATA[<article><h1>The Positivist</h1><p>A Positivist, Life Coach!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8be92d15d654280a424405c752de23afde68b825.jpg"></article>]]></description>
+            <link>https://thegrid.ai/shankarmridha/36d12080-cb31-40d5-8bdd-5f46281c10b0/index.html</link>
             <guid isPermaLink="false">36d12080-cb31-40d5-8bdd-5f46281c10b0</guid>
-            <pubDate>Fri, 22 Jan 2016 14:10:02 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 15:38:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
